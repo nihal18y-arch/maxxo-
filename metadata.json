@@ -1,0 +1,8 @@
+{
+  "name": "Sesame AI Clone",
+  "description": "A high-performance, multi-modal AI workspace with deep reasoning, web search grounding, and real-time voice interaction capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
